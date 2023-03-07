@@ -1,0 +1,13 @@
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\bin\Debug\netcoreapp3.1\ArrayScaler.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\bin\Debug\netcoreapp3.1\ArrayScaler.deps.json
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\bin\Debug\netcoreapp3.1\ArrayScaler.runtimeconfig.json
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\bin\Debug\netcoreapp3.1\ArrayScaler.runtimeconfig.dev.json
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\bin\Debug\netcoreapp3.1\ArrayScaler.dll
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\bin\Debug\netcoreapp3.1\ArrayScaler.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.csprojAssemblyReference.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.AssemblyInfoInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.AssemblyInfo.cs
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.dll
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\ArrayScaler\ArrayScaler\obj\Debug\netcoreapp3.1\ArrayScaler.genruntimeconfig.cache
